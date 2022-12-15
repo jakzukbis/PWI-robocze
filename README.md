@@ -1,2 +1,3 @@
 # PWI-robocze
 Zmiany, zmiany, zmiany...
+Koniec
